@@ -51,3 +51,8 @@ if count > 0:
     # Dump the output as an integer
     #  It's not really accurate sub-millimeter, let's not pretend it is.
     print "%0.0f" % avg
+    
+    # trying to have the code print if the avg value changes from its first print
+if dif = sum / count:
+    else dif != avg
+    print dif    
